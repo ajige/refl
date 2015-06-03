@@ -1,0 +1,1 @@
+src/main.o: src/main.cpp src/aclass.h src/func.h src/data.h
